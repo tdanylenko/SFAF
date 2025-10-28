@@ -10,7 +10,7 @@
     <audio controls>
         <source src="/workspaces/hellyah 2025-01-26.mp3" type="audio/mpeg">
     </audio>
-<video width="320" height="240" controls src="/workspaces/HELLYEAH-Black-Flag-Army-Official-Music-Video.mp4">
+<video width="320" height="240" controls src="/HELLYEAH-Black-Flag-Army-Official-Music-Video.mp4">
 </video>
 </body>
 </html>
